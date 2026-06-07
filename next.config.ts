@@ -1,7 +1,17 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from "next"
 
 const nextConfig: NextConfig = {
-  /* config options here */
-};
-
-export default nextConfig;
+  i18n: {
+    locales: ["pt-BR", "en-US"],
+    defaultLocale: "pt-BR",
+  },
+  turbopack: {
+    rules: {
+      "*.svg": {
+        loaders: ["@svgr/webpack"],
+        as: "*.js",
+      },
+    },
+  },
+}
+export default nextConfig

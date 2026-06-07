@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "title": "Bruno Amado - Senior Fullstack Developer",
+    "description": "Bruno Amado's portfolio — senior fullstack software developer (React, Vue, Java Spring, and .NET)."
+  },
+  "footer": {
+    "copyright": "© {{year}} Bruno Amado"
+  },
+  "header": {
+    "getInTouch": "Get in touch"
+  },
+  "hero": {
+    "greeting": "Hello, I'm Bruno Amado!",
+    "description": "Senior fullstack software developer, building end-to-end web applications — from frontend to backend — with a focus on quality, performance, and user experience.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "technologies": {
+    "title": "Technologies",
+    "subtitle": "Tools I work with on a daily basis.",
+    "vueDescription": "Fast and well-structured applications"
+  },
+  "contactForm": {
+    "title": "Get in touch",
+    "name": "Name",
+    "email": "E-mail",
+    "subject": "Reason for contact",
+    "message": "Message",
+    "sending": "Sending...",
+    "send": "Send",
+    "successMessage": "Thank you for sending your message! I'll get back to you soon.",
+    "errorMessage": "Error sending message.",
+    "linkedinAlternative": "Or contact me via LinkedIn"
+  },
+  "card": {
+    "fullstackDeveloper": "Fullstack Developer",
+    "senior": "Senior"
+  }
+}

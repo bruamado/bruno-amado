@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "title": "Bruno Amado - Desenvolvedor Fullstack Sênior",
+    "description": "Portifolio de Bruno Amado — desenvolvedor sênior de software fullstack (React, Vue, Java Spring e .NET)."
+  },
+  "footer": {
+    "copyright": "© {{year}} Bruno Amado"
+  },
+  "header": {
+    "getInTouch": "Entre em contato"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou o Bruno Amado!",
+    "description": "Desenvolvedor de software fullstack sênior, construindo aplicações web de ponta a ponta — do frontend ao backend — com foco em qualidade, performance e experiência do usuário.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "technologies": {
+    "title": "Tecnologias",
+    "subtitle": "Ferramentas com as quais atuo no dia a dia.",
+    "vueDescription": "Aplicações rápidas e bem estruturadas"
+  },
+  "contactForm": {
+    "title": "Entre em contato",
+    "name": "Nome",
+    "email": "E-mail",
+    "subject": "Motivo do contato",
+    "message": "Mensagem",
+    "sending": "Enviando...",
+    "send": "Enviar",
+    "successMessage": "Obrigado por enviar sua mensagem! Entrarei em contato em breve.",
+    "errorMessage": "Erro ao enviar mensagem.",
+    "linkedinAlternative": "Ou me contate pelo LinkedIn"
+  },
+  "card": {
+    "fullstackDeveloper": "Desenvolvedor Fullstack",
+    "senior": "Sênior"
+  }
+}
